@@ -1,0 +1,2 @@
+# lazycrazy
+my first repository
